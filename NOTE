@@ -1,0 +1,21 @@
+# https://nextjs.org/learn/dashboard-app/getting-started
+### Create
+$ npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+...
+Inside that directory, you can run several commands:
+
+  npm run dev
+    Starts the development server.
+
+  npm run build
+    Builds the app for production.
+
+  npm start
+    Runs the built app in production mode.
+
+We suggest that you begin by typing:
+
+  cd nextjs-dashboard
+  npm run dev
+
+
